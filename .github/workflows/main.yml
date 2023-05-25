@@ -1,33 +1,4 @@
-Skip to content
 
-Search or jump to...
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@funhere 
-akshata29
-/
-chatpdf
-Public
-Fork your own copy of akshata29/chatpdf
-Code
-Issues
-3
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-Deploy App
-Update requirements.txt - Add tabulate #56
-Jobs
-Run details
-Workflow file for this run
-.github/workflows/backendapp.yml at f0af3d2
 # This workflow will build and push a Python application to an Azure Web App when a commit is pushed to your default branch.
 #
 # This workflow assumes you have already created the target Azure App Service web app.
@@ -133,4 +104,4 @@ jobs:
         with:
           app-name: ${{ secrets.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-Update requirements.txt - Add tabulate · akshata29/chatpdf@f0af3d2
+          
